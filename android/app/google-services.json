@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19655375477",
+    "project_id": "dishes-18c11",
+    "storage_bucket": "dishes-18c11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19655375477:android:0c2b27f484eba2b936d63c",
+        "android_client_info": {
+          "package_name": "com.example.dishes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19655375477-5o8cc4to0sfd1hk0d2j3pp9pr5ep30h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYczjoV1xPER-h9JhW7LSPVQOAdScJfuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19655375477-5o8cc4to0sfd1hk0d2j3pp9pr5ep30h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
